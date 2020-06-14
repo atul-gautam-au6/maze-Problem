@@ -14,6 +14,8 @@ Using the square matrix present in the input file it would generate a path to re
 > To run this project, download and install `MazeSetup.exe` locally on your system 
 
 **How to run**
->Installing setup leads to `Python_project_Maze_Solver` file, which contains a `input.txt` file. In this file you need to put matrix of NxN size . if you were using windows  `maze_ solver.py` if you were using linux 
+>Installing setup leads to `Python_project_Maze_Solver` file, which contains a `input.txt` file. In this file you need to put matrix of NxN size .
+>if you were using windows run the file  commond argument `python maze_ solver.py input_file_name output_file_name` 
+if you were using linux 
 
 >A demo matrix is already present in `input.txt` file,if you just need to overwrite it.
